@@ -1,2 +1,2 @@
 # Reducer
-### it is just an sample website
+### it is just an sample website for Reducer
